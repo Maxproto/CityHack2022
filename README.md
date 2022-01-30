@@ -1,6 +1,6 @@
 # CityHack22 Project Submission
 ## Project: < Time Series Foracasting Application >
-<img src="../TimeSeries.jpg" width="200" alt="project_logo"/>
+<img src="../TimeSeries.png" width="200" alt="project_logo"/>
 
 ## Team: < Best >
 ## Members
