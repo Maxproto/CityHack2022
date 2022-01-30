@@ -55,7 +55,7 @@ The structure of the LSTM model in this project is shown as below:
 | dropout (Dropout) |    (None, 32)   |    0    |
 |   dense (Dense)   |    (None, 1)    |    33   |
 
-## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
+## 3 Most Impactful Features of the Project (with Screenshot and Short Description)
 1. < First Feature > LSTM Model
   LSTM is a commonly used RNN architecture. A common LSTM unit is composed of a cell, an input gate, an output gate and a forget gate. The cell remembers values over arbitrary     time intervals and the three gates regulate the flow of information into and out of the cell.
   The structure of the cell is shown below, it can process data sequentially and keep its hidden state through time.
