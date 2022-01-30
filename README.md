@@ -57,8 +57,8 @@ The structure of the LSTM model in this project is shown as below:
 
 ## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
 1. < First Feature > LSTM Model
-2. < Second Feature > Data Reconstruction
-3. < Third Feature >  Prediction based on previous output of the model  
+3. < Second Feature > Data Reconstruction
+4. < Third Feature >  Prediction based on previous output of the model  
 
 ## Tech used (as many as required)
 1. < Tech > Python API: Keras
