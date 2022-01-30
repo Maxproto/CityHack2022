@@ -60,9 +60,10 @@ The structure of the LSTM model in this project is shown as below:
   LSTM is a commonly used RNN architecture. A common LSTM unit is composed of a cell, an input gate, an output gate and a forget gate. The cell remembers values over arbitrary     time intervals and the three gates regulate the flow of information into and out of the cell.
   The structure of the cell is shown below, it can process data sequentially and keep its hidden state through time.
   <img src="https://github.com/Maxproto/CityHack2022/blob/main/LSTM_Cell.svg.png" width="200" alt="project_logo"/>
+
 2. < Second Feature > Data Reconstruction
   Rescale and transform the 2-dimensional data into a 3-dimensional input dataset for the LSTM model.
-  
+
 3. < Third Feature >  Prediction based on previous output of the model
   Each time a prediction is made, the combination of the prediction and 4 new values of the features in the test set becomes the input of the next prediction. So that the model   can predict the value of Y for the following 60 days.   
 
